@@ -1,2 +1,2 @@
 # Algorithms-Cormen
-This repository contains my journey through learning data structures and algorithms with "Introduction to Algorithms" (cormen et al).
+My name is Clóvis Carmo, i am an undergraduate CS student at Universidade Federal da Bahia in Brazil. This repository contains my journey through learning data structures and algorithms with "Introduction to Algorithms" (Cormen et al).  Here i share my implementations of the algorithms and data structures, as well as my studying notes. I hope this can help anyone who might be starting out their own journey through learning DSA.
